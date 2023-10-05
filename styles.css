@@ -168,12 +168,12 @@ body {
   color: var(--branco-principal);
   margin-left: 1em;
 }
+
 .rodape__texto {
   margin: 1em 0 0 0;
   color: var(--cinza-secundario);
   font-size: 14px;
 }
-
 
 .lista__link a:hover {
   color: var(--botao-azul);
