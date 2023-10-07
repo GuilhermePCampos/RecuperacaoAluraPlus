@@ -28,7 +28,7 @@ body {
 }
 
 .planoFundo {
-  background-image: url("planodeFundo.jpg");
+  background-image: url("img/planodeFundo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -119,6 +119,10 @@ body {
   font-size: 42px;
   color: var(--branco-principal);
   margin-bottom: 25px;
+}
+
+.descricao__titulo2 {
+  color: var(--botao-azul);
 }
 
 .descricao__texto {
