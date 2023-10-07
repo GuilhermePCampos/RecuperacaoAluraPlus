@@ -69,7 +69,7 @@ body {
 .container__botao {
   background-color: var(--botao-azul);
   padding: 1em;
-  border-radius: 4px;
+  border-radius: 30px;
   color: var(--branco-principal);
   text-decoration: none;
   display: block;
@@ -79,6 +79,11 @@ body {
   background-color: transparent;
   border: 2px solid white;
   border: 2px solid var(--branco-principal);
+}
+
+.botao__terciario {
+  background-color: green;
+  border: 2px solid white;
 }
 
 .container__aviso {
